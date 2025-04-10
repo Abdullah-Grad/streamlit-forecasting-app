@@ -1,0 +1,9 @@
+
+streamlit
+prophet
+statsmodels
+pulp
+matplotlib
+pandas
+numpy
+openpyxl
