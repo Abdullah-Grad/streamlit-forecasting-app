@@ -10,7 +10,7 @@ from sklearn.metrics import mean_absolute_error
 from pulp import LpMinimize, LpProblem, LpVariable, lpSum, value
 
 st.set_page_config(layout='wide')
-st.title("📈 Demand Forecasting & Workforce Scheduling")
+st.title("Alo")
 
 st.markdown("<div style='text-align: center;'><img src='logo.png' width='200'/></div>", unsafe_allow_html=True)
 
