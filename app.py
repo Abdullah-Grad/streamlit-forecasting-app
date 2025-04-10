@@ -12,8 +12,6 @@ from pulp import LpMinimize, LpProblem, LpVariable, lpSum, value
 st.set_page_config(layout='wide')
 st.title("📈 Demand Forecasting & Workforce Scheduling")
 
-# Display logo
-st.markdown("<div style='text-align: center;'><img src='logo.png' width='200'/></div>", unsafe_allow_html=True)
 
 st.subheader("Upload Monthly Demand Excel File")
 uploaded_file = st.file_uploader("Choose a file", type=["xlsx"])
